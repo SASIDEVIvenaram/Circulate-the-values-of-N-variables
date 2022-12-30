@@ -17,5 +17,6 @@ Using the slicing concept rotate the list
 ## Program:
 
 ## Output:
+![](1.png)
 
 ## Result:
